@@ -15,5 +15,10 @@
     "scheduling",
     "analytics",
     "publishing"
-  ]
+  ],
+  "privacyPolicyUrl": "https://www.velocity.li/privacy",
+  "termsOfServiceUrl": "https://www.velocity.li/terms",
+  "supportUrl": "https://www.velocity.li/contact",
+  "repository": "https://github.com/AGNEYA1/velocity-plugin",
+  "documentationUrl": "https://github.com/AGNEYA1/velocity-plugin#readme"
 }
