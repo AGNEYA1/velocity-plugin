@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "velocity": {
+      "type": "http",
+      "url": "https://www.velocity.li/mcp"
+    }
+  }
+}

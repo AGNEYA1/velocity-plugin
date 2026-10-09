@@ -1,0 +1,19 @@
+{
+  "name": "velocity",
+  "displayName": "Velocity",
+  "version": "1.0.0",
+  "description": "Manage social accounts, calendars, posts, media and analytics in your Velocity workspace. Schedule, edit, cancel and retry posts through authenticated tools.",
+  "author": {
+    "name": "Velocity",
+    "email": "support@velocity.li",
+    "url": "https://www.velocity.li"
+  },
+  "homepage": "https://www.velocity.li",
+  "license": "MIT",
+  "keywords": [
+    "social-media",
+    "scheduling",
+    "analytics",
+    "publishing"
+  ]
+}
